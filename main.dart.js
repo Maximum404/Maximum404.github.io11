@@ -18604,8 +18604,7 @@ _.dy=!0
 _.fr=null},
 Em:function Em(){},
 xG(a,b,c,d,e,f,g,h){return new A.m7(e,f,d,c,b,h,g,a,null)},
-ahH(a){var s=null
-return new A.te(a,s,s,s,s)},
+ahH(a,b){return new A.te(a,null,b,null,null)},
 m7:function m7(a,b,c,d,e,f,g,h,i){var _=this
 _.w=a
 _.x=b
@@ -55682,7 +55681,7 @@ A.EX.prototype={
 aU(){this.b9()
 this.MW()},
 MW(){this.aH(new A.Ym(this,$.abK().k(0,"telegramWebApp").gwG()))},
-R(a){var s=null,r=A.ahH("Telegram User ID")
+R(a){var s=null,r=A.ahH("Telegram User ID",s)
 return new A.rL(new A.oE(r,new A.GO(s,s,1/0,56),s),A.Le(new A.oX(s,s,s,s,s,s,s),s,s),s)},
 gwG(){return this.d}}
 A.Ym.prototype={
