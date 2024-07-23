@@ -1,6 +1,6 @@
 {
-    "name": "cash_coin",
-    "short_name": "cash_coin",
+    "name": "test_tg_user_id",
+    "short_name": "test_tg_user_id",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
