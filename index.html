@@ -1,41 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <base href="/">
-
   <meta charset="UTF-8">
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
-
-  <!-- iOS meta tags & icons -->
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="test_tg_user_id">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
-
-  <title>test_tg_user_id</title>
+  <meta name="description" content="A new Flutter project">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Telegram Web App</title>
   <link rel="manifest" href="manifest.json">
-  <script async src="https://telegram.org/js/telegram-widget.js?7" data-telegram-login="YOUR_BOT_USERNAME" data-size="large" data-onauth="onTelegramAuth(user)"></script>
-
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </head>
 <body>
-<div id="telegram-login"></div>
-<script type="text/javascript">
-  function onTelegramAuth(user) {
-    // Сохраните данные пользователя в localStorage
-    localStorage.setItem('telegramUserId', user.id);
-    localStorage.setItem('telegramUserName', user.username);
-    localStorage.setItem('telegramFirstName', user.first_name);
-    localStorage.setItem('telegramLastName', user.last_name);
-
-    // Передайте данные в ваше Flutter приложение
-    window.flutter_inappwebview.callHandler('onTelegramAuth', user);
-  }
+<script>
+  // The following line prevents the browser from scrolling on touch.
+  document.addEventListener('touchmove', function(event) {
+    event.preventDefault();
+  }, {passive: false});
 </script>
-
-<script src="flutter_bootstrap.js" async></script>
+<script src="main.dart.js" type="application/javascript"></script>
 </body>
 </html>
