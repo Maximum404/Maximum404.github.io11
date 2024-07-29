@@ -44679,7 +44679,7 @@ p===$&&A.b()
 o=e*0.02
 n=h*0.03
 m=t.E
-m=A.a([f,A.ls(A.ck(A.a([d,new A.uO(new A.afr(),j,j,j,t.C2),s,r,q,A.a_j(j,A.aki(A.ct("assets/images/new/coin.png",B.X,g,g),p),B.bo,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j,new A.afs(k),new A.aft(k),new A.afu(k),j),A.br(j,o,j),A.dL(j,A.bN(A.a([A.ct("images/new/Vector.png",B.X,e*0.03,h*0.033),A.br(j,j,h*0.02),A.bb(""+B.f.a1(k.d),A.cQ(j,j,B.h,j,j,j,j,j,j,j,j,e*0.025,j,j,B.bL,j,j,!0,j,j,j,j,j,j,j,j),j),A.bb("/500",A.cQ(j,j,B.h,j,j,j,j,j,j,j,j,o,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j),A.bb(" ",j,j)],m),B.o,B.A,B.l),B.v,j,j,j,j,j,new A.bj(n,0,n,0),j,j,j,j),A.br(j,e*0.01,j),new A.F9(k.d,A.a([new A.F(4294754039),new A.F(4291067435),new A.F(4283831500)],t.t_),j)],m),B.o,B.A,B.l,B.B),j,j)],m)
+m=A.a([f,A.ls(A.ck(A.a([d,new A.uO(new A.afr(),j,j,j,t.C2),s,r,q,A.a_j(j,A.aki(A.ct("assets/images/new/coin.png",B.X,g,g),p),B.bo,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j,new A.afs(k),new A.aft(k),new A.afu(k),j),A.br(j,o,j),A.dL(j,A.bN(A.a([A.ct("images/new/Vector.png",B.X,e*0.03,h*0.033),A.br(j,j,h*0.02),A.bb(""+B.f.a1(k.d),A.cQ(j,j,B.h,j,j,j,j,j,j,j,j,e*0.025,j,j,B.bL,j,j,!0,j,j,j,j,j,j,j,j),j),A.bb("/500",A.cQ(j,j,B.h,j,j,j,j,j,j,j,j,o,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j),A.bb(" "+k.ax,j,j)],m),B.o,B.A,B.l),B.v,j,j,j,j,j,new A.bj(n,0,n,0),j,j,j,j),A.br(j,e*0.01,j),new A.F9(k.d,A.a([new A.F(4294754039),new A.F(4291067435),new A.F(4283831500)],t.t_),j)],m),B.o,B.A,B.l,B.B),j,j)],m)
 for(h=k.r,f=k.x,e*=0.05,l=0;l<h.length;++l){d=h[l]
 s=f[l]
 r=s.a
