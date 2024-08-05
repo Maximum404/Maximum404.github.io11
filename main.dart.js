@@ -44838,7 +44838,7 @@ A.XP.prototype={
 $0(){return this.a.tR(this.b)},
 $S:0}
 A.JA.prototype={
-S(a){var s=null,r="6172866726",q="https://t.me/cash_coin_bot/start?ref=6172866726",p=t.w,o=A.bR(a,s,p).w.a.a,n=A.bR(a,s,p).w.a.b
+S(a){var s=null,r="6172866726",q="http://t.me/cash_coin_bot/start?ref=6172866726",p=t.w,o=A.bR(a,s,p).w.a.a,n=A.bR(a,s,p).w.a.b
 p=t.E
 return A.yT(A.hF(B.aA,A.a([A.cC("assets/images/new/fon.png",B.a_,s,s),A.ly(A.cm(A.a([A.dh(s,A.cm(A.a([A.bD(s,s,o*0.02),A.a_D(new A.a56(),new A.yi().t8(r),t.S),A.b2("",$.pE().hU(A.au(71,0,0,0)),s)],p),B.q,B.O,B.k,B.B),B.u,s,s,new A.dQ(B.h,s,s,new A.bW(B.r,B.r,new A.ar(28,28),new A.ar(28,28)),s,s,B.ae),s,n*0.2,s,s,s,s,o),A.bJ(A.a([A.bD(s,n*0.15,s),A.bD(A.hn(A.bJ(A.a([new A.cj(B.Ec,A.cm(A.a([A.b2("My invite link:",A.cR(s,s,B.j,s,s,s,s,s,s,s,s,18,s,s,B.b_,s,s,!0,s,s,s,s,s,s,s,s),s),A.b2(q,A.cR(s,s,B.qV,s,s,s,s,s,s,s,s,12,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s)],p),B.aP,B.O,B.k,B.B),s)],p),B.q,B.bj,B.k),B.h,s),n*0.09,o*0.7),new A.Fl(q,s)],p),B.q,B.O,B.k),new A.cj(B.hE,A.b2("My Referrals:",$.ajA(),s),s),A.bD(A.a_D(new A.a57(),new A.yi().ta(r),t.b5),n*0.55,o*0.9)],p),B.q,B.C,B.k,B.B),s,s)],p),B.dK))}}
 A.a56.prototype={
